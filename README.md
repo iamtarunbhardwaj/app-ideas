@@ -14,3 +14,4 @@ You can contribute some money via google pay or any online platform.
 
 ### Copyright
 Copyright Tarun Bhardwaj 2020
+Some new copyright symbol
