@@ -10,8 +10,7 @@ Purpose is only for practise of git and github. :)
 Master git branches.
 
 ## How to contribute
-You can contribute some money via google pay or any online platform.
-First fork the project and then pull the project.
+First fork the project and then pull the project to edit any changes.
 
 ### Copyright
-Copyright Tarun Bhardwaj 2020
+Bhardwaj & Co.
