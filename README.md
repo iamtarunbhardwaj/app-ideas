@@ -14,5 +14,4 @@ You can contribute some money via google pay or any online platform.
 First fork the project and then pull the project.
 
 ### Copyright
-Copyright Tarun Bhardwaj 2020
-Some new copyright symbol
+Tarun Bhardwaj 2020
